@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radio_button_margin_left">16dp</dimen>
+    <dimen name="textview_margin_bottom">4dp</dimen>
+    <dimen name="btn_get_start_padding">16dp</dimen>
+    <dimen name="btn_margin_bottom">20dp</dimen>
+</resources>
